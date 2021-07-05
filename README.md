@@ -1,8 +1,5 @@
 # Inventory-System
 
-The inventory system simulates the stocking level and the revenue of Cantilever Umbrellas in an Australian firm. 
-
-
 ### Assumptions
 1. The firm provides this product to its distributors together with a recommended retail price (RRP).
 
